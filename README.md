@@ -1,6 +1,6 @@
 # MeSSQL
 
-MSSoniQL is a high-speed, efficient tool designed for interaction and exploitation of Microsoft SQL (MSSQL) servers within a domain. Built with offensive security in mind, MSSoniQL enables penetration testers and red teamers to execute various tasks on MSSQL servers, both local and remote, with a focus on speed and ease of use.
+MeSSQL is a high-speed, efficient tool designed for interaction and exploitation of Microsoft SQL (MSSQL) servers within a domain. Built with offensive security in mind, MSSoniQL enables penetration testers and red teamers to execute various tasks on MSSQL servers, both local and remote, with a focus on speed and ease of use.
 
 # Features
 
