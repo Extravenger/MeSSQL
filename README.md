@@ -31,7 +31,7 @@ Or just download the compiled binary from Releases page.
 
 # Usage
 
-When you run MSSoniQL, you will be able to provide the server name, database name, username and password to connect with.  
+When you run MeSSQL, you will be able to provide the server name, database name, username and password to connect with.  
 If you leave the username and password blank, Windows Authentication will take place instead.  
 Once a connection established - you'll be presented with a menu:
 
