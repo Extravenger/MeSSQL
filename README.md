@@ -1,6 +1,7 @@
 # MeSSQL
 
-MeSSQL is a high-speed, efficient, and purpose-built tool designed for seamless interaction and exploitation of Microsoft SQL (MSSQL) servers within a domain. Developed with offensive security as its core focus, MeSSQL empowers penetration testers and red teamers to perform a wide range of tasks on both local and remote MSSQL servers. Its primary emphasis on speed and ease of use makes it an invaluable asset for conducting in-depth assessments in complex environments.
+MeSSQL is a high-speed, efficient, and purpose-built tool designed for seamless interaction and exploitation of Microsoft SQL (MSSQL) servers within a domain. Developed with offensive security as its core focus, MeSSQL empowers penetration testers and red teamers to perform a wide range of tasks on both local and remote MSSQL servers. Its primary emphasis on speed and ease of use makes it an invaluable asset for conducting in-depth assessments in complex environments.  
+
 *Note: MeSSQL was developed during the OSEP (Offensive Security Experienced Penetration Tester) course to improve efficiency and save time while targeting MSSQL instances.*
 
 # Features
